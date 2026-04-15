@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Algorythmic Computer Science student at Wroclaw University of Science and Technology</p>
+<p align="left">I'm a Applied Computer Science student at Wroclaw University of Science and Technology</p>
 
 ###
 
